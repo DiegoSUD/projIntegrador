@@ -3,7 +3,7 @@ package pinteg1;
 public class Temperatura {
     public static void main(String [] args){
         //Entrada
-        double f = 212;
+        double f = -32;
         
        //Processamento
        /* Quando eu coloco o (.0) ele se torna numeros
