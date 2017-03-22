@@ -11,6 +11,7 @@ public class saudação {
             // Não se pode colocar == "" ele reconhece ( coloca-se nome.equals)
             // para inverter a ordem colocase (!nome.equals (" "))
             
+            
             if (nome.equals (" ")){
                 System.out.println("Olá, mundo!");
             } else {
